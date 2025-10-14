@@ -1,0 +1,43 @@
+body{
+      background-color: #8c00ff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 110vh;
+    
+}
+
+.quadrado{
+background-color: grey;
+border: 0.1px solid black;
+border-radius: 20px;
+width: 350px;
+height: 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+font-family: sans-serif;
+    
+}
+
+img{
+      width: 200px;
+      height: 200px;
+      border-radius: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 40px;
+}
+
